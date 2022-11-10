@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       padding: 0;
       margin: 0;
       box-sizing: border-box;
-      /* overflow-x: hidden; */
+      overflow-x: hidden;
     }
 
     .nav {
